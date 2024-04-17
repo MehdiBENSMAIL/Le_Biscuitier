@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Le_Biscuitier",
+			"Path": "..\\Source\\Le_Biscuitier.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Le_BiscuitierEditor",
+			"Path": "..\\Source\\Le_BiscuitierEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
